@@ -1,4 +1,4 @@
-.gitignore
+.gitignore 
 semantic_search_py_server/.env/*
 semantic_search_py_server/.env/bin/activate
 semantic_search_py_server/.env/bin/activate.csh
@@ -9974,3 +9974,5 @@ semantic_search/public/logo192.png
 semantic_search/public/logo512.png
 semantic_search/public/manifest.json
 semantic_search/public/robots.txt
+.gitignore
+.gitignore
