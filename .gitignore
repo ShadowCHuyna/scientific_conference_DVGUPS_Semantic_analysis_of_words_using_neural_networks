@@ -1,3 +1,4 @@
+.gitignore
 semantic_search_py_server/.env/*
 semantic_search_py_server/.env/bin/activate
 semantic_search_py_server/.env/bin/activate.csh
