@@ -9976,3 +9976,5 @@ semantic_search/public/manifest.json
 semantic_search/public/robots.txt
 .gitignore
 .gitignore
+semantic_search_py_server/.env
+semantic_search_py_server/__pycache__
